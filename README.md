@@ -17,11 +17,11 @@
 
 ---
 
-## 📊 GitHub
 
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fpelvison&show_icons=true&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpelvison&layout=compact&theme=tokyonight"/>
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fpelvison&theme=tokyonight&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
 ---
