@@ -1,8 +1,8 @@
 ## Óla! meu nome é Elvison 👋
-- 👨‍💻 Aspirante a progamador
-- 🎓 Estudante de  Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Aspirante a Back-end develope
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 📓 Atualmente estudando 
-      HTML | CSS | JS |
+      NODE.JS| JS | TYPE SCRIPT |
  
 ##
 <div>
